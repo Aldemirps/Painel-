@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "053550522",
-        "password": "394943681",
+        "username": "brazilfnt_2S0Odev1JrMlPzehygT3K5hxMulVvP",
+        "password": "4WGTi5NyEZxfoSZS9A0IGF3FZl1jNP",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "cdnbr1.biz.ua",
+        "url": "voz.one",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
