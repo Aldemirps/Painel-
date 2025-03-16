@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "9090909090",
-        "password": "9090909090",
+        "username": "Ynvx6G",
+        "password": "DK3Kcx",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "netturbo.aovivo.xyz",
+        "url": "ldns.live",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
