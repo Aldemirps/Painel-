@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "Ynvx6G",
-        "password": "DK3Kcx",
+        "username": "epg",
+        "password": "epg",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,7 +17,7 @@
         ]
     },
     "server_info": {
-        "url": "ldns.live",
+        "url": "curacao-fiber-cdn.com",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
