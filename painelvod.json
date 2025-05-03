@@ -1,7 +1,7 @@
 {
     "user_info": {
-        "username": "5886674797",
-        "password": "65697",
+        "username": "5193271958",
+        "password": "5193271ips1",
         "message": "",
         "auth": 1,
         "status": "Active",
@@ -17,14 +17,14 @@
         ]
     },
     "server_info": {
-        "url": "curacao-fiber-cdn.com",
+        "url": "cdnseven.xyz",
         "port": "80",
         "https_port": "443",
         "server_protocol": "http",
         "rtmp_port": "8080",
         "timezone": "America/Sao_Paulo",
         "timestamp_now": 1709960182,
-        "time_now": "2025-04-14 01:56:22",
+        "time_now": "2024-03-09 01:56:22",
         "process": true
     }
 }
