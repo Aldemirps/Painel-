@@ -1,47 +1,30 @@
 {
-  "user_info": {
-    "username": "yifdyl84qu",
-    "password": "lf39kt1fwf",
-    "auth": true,
-    "status": "Active",
-    "is_trial": false,
-    "active_cons": 1,
-    "max_connections": 999,
-    "exp_date_unix": 2147483647,
-    "exp_date_human": "2038-01-19 03:14:07",
-    "created_at_unix": 1672332438,
-    "created_at_human": "2022-12-29 21:47:18",
-    "allowed_output_formats": [
-      "m3u8",
-      "ts",
-      "rtmp"
-    ]
-  },
-  "server_info": {
-    "url": "asxe.net",
-    "port": 80,
-    "https_port": 443,
-    "rtmp_port": 8080,
-    "server_protocol": "http",
-    "timezone": "America/Sao_Paulo",
-    "timestamp_now": 1709960182,
-    "time_now": "2024-03-09 01:56:22",
-    "process": true,
-    "load_balancer": false,
-    "api_compatibility": "xtream-codes-v2",
-    "geolocation": {
-      "country": "Brazil",
-      "city": "São Paulo",
-      "ip": "200.147.67.142"
+    "user_info": {
+        "username": "yifdyl84qu",
+        "password": "lf39kt1fwf",
+        "message": "",
+        "auth": 1,
+        "status": "Active",
+        "exp_date": "2147483647",
+        "is_trial": "0",
+        "active_cons": "1",
+        "created_at": "1672332438",
+        "max_connections": "999",
+        "allowed_output_formats": [
+            "m3u8",
+            "ts",
+            "rtmp"
+        ]
+    },
+    "server_info": {
+        "url": "asxe.net",
+        "port": "80",
+        "https_port": "443",
+        "server_protocol": "http",
+        "rtmp_port": "8080",
+        "timezone": "America/Sao_Paulo",
+        "timestamp_now": 1709960182,
+        "time_now": "2024-03-09 01:56:22",
+        "process": true
     }
-  },
-  "meta": {
-    "api_version": "1.0.3",
-    "secure_token": "a3f5b9c12e9f4b7d8a1c6f392ad81f56",
-    "license_valid": true,
-    "support_contact": "support@asxe.net",
-    "terms_url": "https://asxe.net/terms",
-    "app_version": "2.6.9",
-    "device_limit_warning": false
-  }
 }
