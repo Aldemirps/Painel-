@@ -1,7 +1,7 @@
 {
   "user_info": {
-    "username": "yifdyl84qu",
-    "password": "lf39kt1fwf",
+    "username": "admin",
+    "password": "admin",
     "message": "Login realizado com sucesso",
     "auth": 1,
     "status": "Active",
@@ -17,7 +17,7 @@
     ]
   },
   "server_info": {
-    "url": "asxe.net",
+    "url": "painelbr.aldemirpereiradesouza.workers.dev",
     "port": "80",
     "https_port": "443",
     "server_protocol": "http",
