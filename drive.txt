@@ -1,0 +1,5 @@
+{
+  "list": "http://voa1.online/get.php?username=3947938&password=128192899&type=m3u_plus",
+  "success": true,
+  "validity": "ilimitado"
+}
