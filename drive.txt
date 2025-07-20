@@ -1,5 +1,5 @@
 {
-  "list": "http://voa1.online/get.php?username=3947938&password=128192899&type=m3u_plus",
+  "list": "http://dns.akira.best/get.php?username=ZdEtSNbXb37d&password=xbb2ns98aprW&type=m3u_plus&output=m3u8s",
   "success": true,
   "validity": "ilimitado"
 }
